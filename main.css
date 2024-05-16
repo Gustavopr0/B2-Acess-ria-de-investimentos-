@@ -1,0 +1,959 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-style: normal;
+    font-family: "Freeman", sans-serif;
+}
+
+header {
+    align-items: center;
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(140, 140, 140, 0.2);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 1100;
+    /*box-shadow: 0px 10px 50px -25px #000;*/
+}
+
+.B2Cabeça {
+    margin: 15px 53px 15px 88px;
+    height: 115px;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.B2Cabeça img {
+    padding: 0px;
+    width: 280px;
+}
+
+
+.LinkTop1 {
+    margin-left: 55%;
+    display: flex;
+}
+
+.LinkTop1 a {
+    font-family: "Ubuntu Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    justify-content: end;
+    text-decoration: none;
+}
+
+.HomeX {
+    margin-right: 5px;
+    padding: 10px 10px;
+    color: #030202;
+    border-bottom: 0.2px solid #030202;
+}
+
+.ContatoX {
+    margin-left: 5px;
+    padding: 10px 10px;
+    color: gold;
+    transition: all ease 0.5s;
+}
+
+.ContatoX:hover {
+    transition: all ease 0.5s;
+    color: #030202;
+    border-bottom: 0.2px solid #030202;
+}
+
+
+
+#corpo1 {
+    background-color: #030202;
+}
+
+#corpo1 img {
+    padding: 0;
+    width: 800px;
+}
+
+.Ctb4 {
+    font-style: inherit;
+    font-weight: 100;
+    font-size: 40px;
+    color: #fff;
+}
+
+.CorDife {
+    color: gold;
+}
+
+.alinhadosZX button {
+    border: none;
+    font-family: "Ubuntu Sans", sans-serif;
+    padding: 13px 10px;
+    width: 62%;
+    background-color: gold;
+    color: #000;
+}
+
+.alinhadosZX span, 
+.separadorP{
+    font-family: "Ubuntu Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+#corpo1 .FGtrX {
+    padding-bottom: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    margin: 135px 0px 0px 0px;
+}
+
+.alinhadosZX {
+    margin-left: -135px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.FGtrX h1 {
+    font-family: "Freeman", sans-serif;
+    letter-spacing: 3px;
+    margin-bottom: 25px;
+}
+
+
+.ERgt01 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.ERgt0 {
+    margin-right: 55px;
+    width: 520px;
+    display: flex;
+    flex-direction: column;
+}
+
+.paragraph00 {
+    color: #ebeaea;
+    letter-spacing: 0.2px;
+    font-family: "Ubuntu Sans", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    margin-bottom: 25px;
+}
+
+
+.Centralizando {
+    width: 100%;
+    background-color: #030202;
+    padding: 70px;
+    /*position: absolute;*/
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.Centralizando img {
+    width: 700px;
+}
+
+.prim66 {
+    display: flex;
+    flex-direction: column;
+}
+
+.prim66 h2 {
+    color: #ebeaea;
+    margin-bottom: 15px;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.prim66 h1 {
+    letter-spacing: 4px;
+    color: rgba(44, 40, 1, 0.5);
+    font-size: 60px;
+}
+
+.prim66 p {
+    color: gold;
+}
+
+.ERgt01 button {
+    border: none;
+    margin-top: 40px;
+    width: 50%;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    font-family: "Ubuntu Sans", sans-serif;
+    font-weight: 500;
+    background-color: gold;
+}
+
+.AlinnZ {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: start;
+}
+
+
+
+
+
+
+.container {
+    justify-content: center;
+    display: flex;
+    background-color: rgb(17, 21, 35);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.conteudo {
+    margin: 0 120px;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    color: white;
+}
+
+#MtSX h1 {
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+.wtS {
+    display: flex;
+}
+
+.hbs {
+    margin-bottom: 30px;
+}
+
+
+.hbs1, .hbs {
+    font-family: "Ubuntu Sans", sans-serif;
+    width: 475px;
+    font-size: 20px;
+}
+
+.MTzz {
+    color: gold;
+    font-size: 45px;
+}
+
+
+#imagem {
+    width: 550px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+.cadast7 {
+    padding: 50px;
+    background-color: #030202;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#secXX1 {
+    color: #f0f0f0;
+    /*display: flex;
+    flex-direction: column;
+    align-items: center;*/
+}
+
+.PariMG {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+
+.PariMG img {
+    margin: 30px 110px;
+    width: 400px;
+}
+
+.Symbo {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.Symbo h3 {
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+.ROnb {
+    margin: 0 6px;
+    color: gold;
+}
+
+.Symbo9 {
+    display: flex;
+}
+
+.Symbo01 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: start;
+}
+
+.Symbo87 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colunadoH {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.text-alin0 {
+    margin-bottom: 30px;
+    display: flex;
+    font-size: 60px;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.surrQ {
+    margin-top: 130px;
+}
+
+.text-alin1 {
+    font-style: oblique;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 50px;
+    width: 600px;
+}
+
+.text-alin9 {
+    font-style: italic;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-top: -20px;
+    font-size: 50px;
+    width: 500px;
+}
+
+.yellow-word {
+    color: yellow; /* Define a cor amarela para a palavra */
+    vertical-align: super; /* Alinha a palavra acima da linha de base */
+}
+
+.quotation-mark {
+    color: yellow; /* Define a cor amarela para as aspas */
+}
+
+.yellow-word5 {
+    color: rgb(255, 255, 255);
+    vertical-align: super;
+}
+
+
+.text-alin1 .textCC {
+    color: gold;
+    display: flex;
+    flex-direction: column;
+}
+
+.textCC .textXX {
+    display: flex;
+    text-align: center;
+}
+
+.Aspaxz {
+    color: gold;
+}
+
+.Aspax {
+    color: gold;
+}
+
+.texT56 {
+    font-family: "Ubuntu Sans", sans-serif;
+    width: 365px;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 70px 0;
+}
+
+.colunadoH h4 {
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+#FormuI7 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+
+#FormuI7 input {
+    font-family: "Ubuntu Sans", sans-serif;
+    font-weight: 600;
+    outline: none;
+    margin-top: 1px;
+    margin-bottom: 25px;
+    padding: 12px 15px;
+    width: 470px;
+}
+
+.FOrmZS form {
+    font-family: "Ubuntu Sans", sans-serif;
+}
+
+.FOrmZS button {
+    width: 150px;
+    padding: 12px;
+    border: none;
+    background-color: gold;
+    letter-spacing: 3px;
+    font-weight: 500;
+    font-family: "Ubuntu Sans", sans-serif;
+}
+
+/*--------------------------------------------------------
+--------------------------------------------------------*/
+
+@media only screen and (max-width: 767px) {
+
+
+
+
+
+    header {
+        align-items: center;
+        width: 100%;
+        background-color: #fff;
+        border-bottom: 1px solid rgba(140, 140, 140, 0.2);
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        z-index: 1100;
+        /*box-shadow: 0px 10px 50px -25px #000;*/
+    }
+    
+    .B2Cabeça {
+        margin: 15px 50px 15px 50px;
+        height: 70px;
+        background-color: #fff;
+        align-items: center;
+        flex-direction: column;
+        display: flex;
+    }
+    
+    .B2Cabeça img {
+        padding: 0px;
+        width: 180px;
+    }
+    
+    
+    .LinkTop1 {
+        margin-left: 55%;
+        display: flex;
+    }
+    
+    .LinkTop1 a {
+        display: none;
+        font-family: "Ubuntu Sans", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 3px;
+        justify-content: end;
+        text-decoration: none;
+    }
+    
+    .HomeX {
+        margin-right: 5px;
+        padding: 10px 10px;
+        color: #030202;
+        border-bottom: 0.2px solid #030202;
+    }
+    
+    .ContatoX {
+        margin-left: 5px;
+        padding: 10px 10px;
+        color: gold;
+        transition: all ease 0.5s;
+    }
+    
+    .ContatoX:hover {
+        transition: all ease 0.5s;
+        color: #030202;
+        border-bottom: 0.2px solid #030202;
+    }
+    
+    
+    
+    #corpo1 {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        background-color: #030202;
+    }
+    
+    #corpo1 img {
+        padding: 0;
+        width: 100%;
+    }
+    
+    .Ctb4 {
+        font-style: inherit;
+        font-weight: 100;
+        font-size: 20px;
+        color: #fff;
+    }
+    
+    .CorDife {
+        color: gold;
+    }
+    
+    .alinhadosZX button {
+        border: none;
+        font-family: "Ubuntu Sans", sans-serif;
+        padding: 10px;
+        width: 150px;
+        background-color: gold;
+        font-size: 10px;
+        color: #000;
+    }
+    
+    .alinhadosZX span, 
+    .separadorP{
+        font-family: "Ubuntu Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+        font-variation-settings:"wdth" 100;
+        font-size: 10px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    
+    #corpo1 .FGtrX {
+        padding: 15px 40px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        width: 100%;
+        margin: 110px 0px 0px 0px;
+        flex-direction: column;
+    }
+    
+    .alinhadosZX {
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .FGtrX h1 {
+        font-family: "Freeman", sans-serif;
+        letter-spacing: 0px;
+        margin-bottom: 25px;
+    }
+    
+    
+    .ERgt01 {
+        background-color: #030202;
+        display: flex;
+        justify-content: center;
+    
+    }
+    
+    .ERgt0 {
+        margin: 0;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .paragraph00 {
+        color: #ebeaea;
+        letter-spacing: 0.2px;
+        font-family: "Ubuntu Sans", sans-serif;
+        font-weight: 400;
+        font-size: 13px;
+        display: flex;
+        margin-bottom: 25px;
+    }
+    
+    
+    .Centralizando {
+        width: 500px;
+        background-color: #030202;
+        padding: 15px 40px;
+        /*position: absolute;*/
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .Centralizando img {
+        width: 100%
+    }
+    
+    .prim66 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .prim66 h2 {
+        color: #ebeaea;
+        margin-bottom: 15px;
+        margin-top: 30px;
+        font-size: 32px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .prim66 h1 {
+        letter-spacing: 1px;
+        color: rgba(44, 40, 1, 0.5);
+        font-size: 34px;
+    }
+    
+    .prim66 p {
+        color: gold;
+    }
+    
+    .ERgt01 button {
+        border: none;
+        margin-top: 40px;
+        width: 150px;
+        padding: 10px;
+        color: rgb(0, 0, 0);
+        font-family: "Ubuntu Sans", sans-serif;
+        font-weight: 500;
+        font-size: 10px;
+        background-color: gold;
+    }
+    
+    .AlinnZ {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: start;
+    }
+    
+    
+    
+    
+    
+    
+    .container {
+        justify-content: center;
+        display: flex;
+        background-color: rgb(17, 21, 35);
+        padding: 15px 40px;
+        flex-direction: column;
+    }
+    
+    .conteudo {
+        margin: 0;
+        justify-content: center;
+        flex-direction: column;
+        display: flex;
+        color: white;
+    }
+
+    .SUV90 {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    #MtSX h1 {
+        display: flex;
+        font-size: 32px;
+        margin-bottom: 30px;
+        flex-direction: column;
+        align-items: start;
+    }
+    
+    .wtS {
+        display: flex;
+    }
+    
+    .hbs {
+        margin-bottom: 30px;
+    }
+    
+    
+    .hbs1, .hbs {
+        font-family: "Ubuntu Sans", sans-serif;
+        width: 100%;
+        font-size: 13px;
+    }
+    
+    .MTzz {
+        margin-left: -6px;
+        color: gold;
+        font-size: 32px;
+    }
+
+    .half-container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    
+    #imagem {
+        width: 100%;
+        text-align: center;
+        border-radius: 4px;
+    }
+
+    .MMmX {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: rgb(17, 21, 35)
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .cadast7 {
+        padding: 15px 40px;
+        background-color: #030202;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    #secXX1 {
+        color: #f0f0f0;
+        /*display: flex;
+        flex-direction: column;
+        align-items: center;*/
+    }
+    
+    .PariMG {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        flex-direction: column;
+    }
+    
+    
+    .PariMG img {
+        margin: 0;
+        width: 210px;
+    }
+    
+    .Symbo {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .Symbo h3 {
+        font-style: italic;
+        margin-top: 20px;
+        margin-bottom: 70px;
+        font-size: 15px;
+        letter-spacing: 1px;
+    }
+    
+    .ROnb {
+        margin: 0 6px;
+        color: gold;
+    }
+    
+    .Symbo9 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .Symbo01 {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: start;
+    }
+    
+    .Symbo87 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .colunadoH {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+    }
+    
+    .text-alin0 {
+        margin-bottom: 30px;
+        display: flex;
+        font-size: 32px;
+        font-weight: 900;
+        font-style: italic;
+    }
+    
+    .surrQ {
+        display: flex;
+        align-items: flex-end;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    
+    .text-alin1 {
+        font-style: oblique;
+        letter-spacing: 1px;
+        font-weight: 600;
+        font-size: 29px;
+        width: 100%;
+    }
+    
+    .text-alin9 {
+        font-style: italic;
+        letter-spacing: 1px;
+        font-weight: 600;
+        margin-top: 0;
+        font-size: 30px;
+        width: 100%;
+    }
+    
+    .yellow-word {
+        color: yellow; /* Define a cor amarela para a palavra */
+        vertical-align: super; /* Alinha a palavra acima da linha de base */
+    }
+    
+    .quotation-mark {
+        color: yellow; /* Define a cor amarela para as aspas */
+    }
+    
+    .yellow-word5 {
+        color: rgb(255, 255, 255);
+        vertical-align: super;
+    }
+    
+    
+    .text-alin1 .textCC {
+        color: gold;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .textCC .textXX {
+        display: flex;
+        text-align: center;
+    }
+    
+    .Aspaxz {
+        color: gold;
+    }
+    
+    .Aspax {
+        color: gold;
+    }
+    
+    .texT56 {
+        font-family: "Ubuntu Sans", sans-serif;
+        width: 100%;
+        font-size: 13px;
+        font-weight: 500;
+        margin: 70px 0;
+    }
+    
+    .colunadoH h4 {
+        font-size: 15px;
+        letter-spacing: 1px;
+        margin-bottom: 20px;
+    }
+    
+    #FormuI7 {
+        font-size: 13px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    
+    
+    #FormuI7 input {
+        font-family: "Ubuntu Sans", sans-serif;
+        font-weight: 600;
+        outline: none;
+        margin-top: 1px;
+        margin-bottom: 25px;
+        padding: 12px 15px;
+        width: 250px;
+    }
+    
+    .FOrmZS form {
+        font-family: "Ubuntu Sans", sans-serif;
+    }
+    
+    .FOrmZS button {
+        font-size: 10px;
+        width: 110px;
+        padding: 10px;
+        border: none;
+        background-color: gold;
+        letter-spacing: 3px;
+        font-weight: 500;
+        font-family: "Ubuntu Sans", sans-serif;
+    }
+
+
+
+
+
+}
